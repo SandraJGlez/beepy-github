@@ -53,7 +53,7 @@ def buberto_bunzales():
 
 	return gusta_python
 
-def Sandra():
+def sandra_t():
 	# Escribe tus datos
 	nombre = "Sandra"
 	edad   = 22
